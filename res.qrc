@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>katynko/sss.png</file>
+        <file>katynko/info.png</file>
+        <file>katynko/refresh.png</file>
+        <file>katynko/знімок7.png</file>
+        <file>katynko/clear.png</file>
+    </qresource>
+</RCC>
